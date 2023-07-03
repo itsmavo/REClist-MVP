@@ -1,7 +1,7 @@
 # REClist-MVP
 A playlist creation script based on what you are jamming to Spotify.
 
-![Sample Playlist Generated]()
+![Sample Playlist Generated](images/Capture-spotify.PNG)
 
 ## Overview
 
